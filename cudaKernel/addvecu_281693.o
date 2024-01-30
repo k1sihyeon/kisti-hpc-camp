@@ -1,0 +1,8 @@
+==========================================
+SLURM_JOB_ID = 281693
+SLURM_NODELIST = gpu45
+==========================================
+Vector size : 134217728
+Elapsed Time in AddVecOnHost: 0.183775
+Elapsed Time in AddVecOnGPU<<<524288, 256>>> : 0.001081
+Vector match.
