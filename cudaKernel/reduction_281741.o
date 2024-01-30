@@ -1,0 +1,8 @@
+==========================================
+SLURM_JOB_ID = 281741
+SLURM_NODELIST = gpu45
+==========================================
+array size 16777216
+CPU reduction : 		2138452485, Elapsed Time : 0.025203 sec
+gpu reduction(Neighbored) : 	2138452485, Elapsed Time : 0.000524 sec
+gpu reduction(Interleaved) : 	2138452485, Elapsed Time : 0.000235 sec

@@ -1,5 +1,5 @@
 #!/bin/sh
-#SBATCH -J addvecu
+#SBATCH -J reduction
 #SBATCH --time=00:05:00
 #SBATCH --nodes 1
 #SBATCH --tasks-per-node=8
@@ -10,5 +10,5 @@
 #SBATCH --comment=etc
 
 export OMP_NUM_THREADS=8
-./addvec
+./reduction
 exit 0
