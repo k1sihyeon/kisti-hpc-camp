@@ -1,0 +1,15 @@
+==========================================
+SLURM_JOB_ID = 281457
+SLURM_NODELIST = gpu45
+==========================================
+Hello World from CPU!
+Hello World from GPU!
+Hello World from GPU!
+Hello World from GPU!
+Hello World from GPU!
+Hello World from GPU!
+Hello World from GPU!
+Hello World from GPU!
+Hello World from GPU!
+Hello World from GPU!
+Hello World from GPU!
