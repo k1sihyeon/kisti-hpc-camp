@@ -1,0 +1,8 @@
+==========================================
+SLURM_JOB_ID = 100683
+SLURM_NODELIST = gpu12
+==========================================
+1 : %%MatrixMarket matrix coordinate real general
+N : 9661,  M : 9661, NNZ : 306356
+cudaSuccess
+Elased Time : 3.101806 seconds

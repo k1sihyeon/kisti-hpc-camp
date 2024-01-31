@@ -1,0 +1,8 @@
+==========================================
+SLURM_JOB_ID = 98188
+SLURM_NODELIST = gpu47
+==========================================
+1 : %%MatrixMarket matrix coordinate real symmetric ==> Conver to general matrix
+N : 8032,  M : 8032, NNZ : 355460
+cudaSuccess
+Elased Time : 1.544971 seconds
